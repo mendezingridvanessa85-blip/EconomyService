@@ -1,8 +1,8 @@
 # EconomyService
 
-Server-authoritative Roblox economy prototype.
+**Developed by Dogi**
 
-Prototype by Kj52058 / carlos837474
+Server-authoritative Roblox economy prototype.
 
 ## Overview
 
