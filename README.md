@@ -1,7 +1,7 @@
 # EconomyService
 
 **Made by Dogi**  
-Roblox accounts: `Carlos837474` and `Kj52058`
+My two Roblox accounts are `Carlos837474` and `Kj52058`
 
 Server-authoritative Roblox economy prototype.
 
